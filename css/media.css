@@ -6,6 +6,10 @@
     .header {
         padding: 1.5rem 2rem;
     }
+
+    .section {
+        padding: 2rem;
+    }
 }
 
 @media (max-width: 768px) {
@@ -37,6 +41,20 @@
    .header .search-form {
         width: 90%;
         right: 2rem;
+   }
+
+   .home {
+        background-position: left;
+        justify-content: center;
+        text-align: center;
+   }
+
+   .home .content h3 {
+        font-size: 4.5rem;
+   }
+
+   .home .content p {
+        font-size: 1.5rem;
    }
 }
 
