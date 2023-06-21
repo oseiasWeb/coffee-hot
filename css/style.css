@@ -1,7 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
 :root {
-    
+    --main-color: #d4a66e;
+    --black: #13131a;
+    --bg: #010103;
+    --border: 01rem solid rgba(255, 255, 255, .3);
 }
 
 * {
@@ -13,4 +16,8 @@
     border: none;
     text-transform: capitalize;
     transition: .2s linear;
+}
+
+html {
+    font-size: 62.5%;
 }
