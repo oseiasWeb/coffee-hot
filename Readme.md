@@ -24,7 +24,7 @@
 <p>Logo abaixo temos o link da página para visualização e testes:</p>
 👉 <a href="https://oseiasweb.github.io/coffee-hot/" target="_blank">Coffee Hot</a><br><br>
 
-<h2 align="center">🏆 Status Projeto</h2>
+<h2 align="center">🛠 Status Projeto</h2>
 <p align="center">
- <img src="pages/images/desenvolvimento.webp"/>
+ Em desenvolvimento
 </p>
