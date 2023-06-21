@@ -115,6 +115,10 @@ body {
     transform-origin: top;
 }
 
+.header .search-form.active {
+    transform: scale(1);
+} 
+
 .header .search-form input {
     height: 100%;
     width: 100%;
@@ -144,6 +148,10 @@ body {
     width: 35rem;
     background: #fff;
     padding: 0 1.5rem;
+}
+
+.header .cart-items-container.active {
+    right: 0;
 }
 
 .header .cart-items-container .cart-item {
