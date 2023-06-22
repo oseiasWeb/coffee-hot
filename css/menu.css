@@ -29,6 +29,11 @@
 .menu .box-container .box .price span {
     font-size: 1.5rem;
     text-decoration: line-through;
+    font-weight: lighter;
+}
+
+.menu .box-container .box a.btn {
+    font-size: 1.5rem;
 }
 
 .menu .box-container .box:hover {
